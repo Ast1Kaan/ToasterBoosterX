@@ -144,12 +144,6 @@ PRs are welcome! Ideas for future features:
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
 <div align="center">
   Made with 💚 for potato PC owners everywhere
   <br>
