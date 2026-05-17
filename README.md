@@ -46,7 +46,7 @@ Designed especially for **potato PCs and toaster laptops** that struggle to run 
 ║  [CPU ◉]  [RAM ◉]  [GPU ◉]  [DISK ◉]        ║
 ║   neon arc meters with smooth animation      ║
 ╠══════════════════════════════════════════════╣
-║        ▶  BOOST SİSTEMİ  ◀  (pulsing)       ║
+║        ▶  BOOST SYSTEM  ◀  (pulsing)         ║
 ╠══════════════════════════════════════════════╣
 ║  [VIDEO MODE]  [STREAM MODE]  [ULTRA FPS]    ║
 ║  [TEMP CLEAN]  [SERVICES]  [RAM]  [DNS]      ║
@@ -141,6 +141,12 @@ PRs are welcome! Ideas for future features:
 - [ ] GPU temperature monitoring
 - [ ] Auto-boost on game launch detection
 - [ ] Scheduled cleanup tasks
+
+---
+
+## 📄 License
+
+MIT License — free to use, modify, and distribute.
 
 ---
 
